@@ -1,0 +1,12 @@
+{
+  "experiment": "real_hard",
+  "name": "imgB",
+  "n_matches": 1212,
+  "n_inliers": 1027,
+  "log_nfa": -3965.692865245011,
+  "epsilon": 4.3475405466168535,
+  "runtime": 0.24998712539672852,
+  "n_iterations": 8,
+  "n_models_tested": 5,
+  "reproj_error_mean": 1.5190762150070378
+}
